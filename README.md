@@ -1,0 +1,2 @@
+# regionalstat.github.io
+Хостинг
